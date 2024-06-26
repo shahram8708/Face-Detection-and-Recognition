@@ -18,7 +18,7 @@ This project demonstrates face detection and recognition using Python, Flask, an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/face-detection-recognition.git
+   git clone https://github.com/shahram8708/face-detection-recognition.git
    cd face-detection-recognition
    ```
 
